@@ -8,6 +8,9 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata = {
   title: 'Inter IIT Tech Meet 13.0 - Certificates',
   description: 'Certificate distribution for Inter IIT Tech Meet',
+  icons: {
+    icon: 'https://interiit-tech.com/wp-content/uploads/2024/10/cropped-interiittech-180x180.png',
+  },
 }
 
 export default function RootLayout({
