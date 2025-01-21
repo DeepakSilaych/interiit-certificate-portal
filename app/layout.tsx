@@ -38,7 +38,9 @@ export default function RootLayout({
                   alt="Inter IIT Tech Meet Logo"
                   className="h-12 w-auto"
                 />
-                <span className="font-bold text-xl">Certificates</span>
+                <span className="font-bold text-xl">
+                  Photos 
+                </span>
               </Link>
               <Link href="https://interiit-tech.com" className="text-white/70 hover:text-white transition">
                 Back to Main Site
